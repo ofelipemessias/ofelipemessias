@@ -1,16 +1,26 @@
-# Olá, eu sou o Felipe! 👋
+# Olá, eu sou o Felipe! 👋 | Hi, I'm Felipe! 👋 | ¡Hola, soy Felipe! 👋
 
-🎓 Estudante de Desenvolvimento de Sistemas
-💻 Apaixonado por tecnologia e resolução de problemas
+🎓 Estudante de Desenvolvimento de Sistemas (ETEC)
+💻 Automação de processos com Python, Flask, Docker e PostgreSQL
+🧪 Testes de API com Postman (API Testing Learning Path)
 🌱 Aprendendo Python, HTML e CSS
 
-## 🛠️ Tecnologias
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+🎓 Systems Development student (ETEC, Brazil)
+💻 Process automation with Python, Flask, Docker and PostgreSQL
+🧪 API testing with Postman (API Testing Learning Path)
 
-## 📫 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-messias-/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ofelipemessias@gmail.com)
+🎓 Estudiante de Desarrollo de Sistemas (ETEC, Brasil)
+💻 Automatización de procesos con Python, Flask, Docker y PostgreSQL
+🧪 Testing de APIs con Postman (API Testing Learning Path)
+
+## 🛠️ Tecnologias | Technologies | Tecnologías
+
+Python · Flask · Docker · PostgreSQL · Git · Postman · Selenium · n8n · Make
+
+## 📫 Contato | Contact | Contacto
+
+* LinkedIn: https://www.linkedin.com/in/felipe-messias-/
