@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe! 👋 | Hi, I'm Felipe! 👋 | ¡Hola, soy Felipe! 👋
+# Olá, eu sou o Felipe! 👋 
 
 🎓 Estudante de Desenvolvimento de Sistemas (ETEC)
 💻 Automação de processos com Python, Flask, Docker e PostgreSQL
