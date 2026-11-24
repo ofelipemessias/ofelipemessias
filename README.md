@@ -1,20 +1,20 @@
 # Olá, eu sou o Felipe! 👋 
 
-🎓 Estudante de Desenvolvimento de Sistemas (ETEC)
-💻 Automação de processos com Python, Docker e PostgreSQL
-🧪 Testes de API com Postman (API Testing Learning Path)
+🎓 Estudante de Desenvolvimento de Sistemas (ETEC)  
+💻 Automação de processos com Python, Docker e PostgreSQL  
+🧪 Testes de API com Postman (API Testing Learning Path)  
 🌱 Aprendendo Python, HTML e CSS
 
 ---
 
-🎓 Systems Development student (ETEC, Brazil)
-💻 Process automation with Python, Docker and PostgreSQL
+🎓 Systems Development student (ETEC, Brazil)  
+💻 Process automation with Python, Docker and PostgreSQL  
 🧪 API testing with Postman (API Testing Learning Path)
 
 ---
 
-🎓 Estudiante de Desarrollo de Sistemas (ETEC, Brasil)
-💻 Automatización de procesos con Python, Docker y PostgreSQL
+🎓 Estudiante de Desarrollo de Sistemas (ETEC, Brasil)  
+💻 Automatización de procesos con Python, Docker y PostgreSQL  
 🧪 Testing de APIs con Postman (API Testing Learning Path)
 
 ## 🛠️ Tecnologias | Technologies | Tecnologías
