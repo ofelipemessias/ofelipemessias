@@ -19,11 +19,9 @@
 
 ## 🛠️ Tecnologias | Technologies | Tecnologías
 
-**Experiência declarada | Experience | Experiencia:** Python · SQL · Playwright · Postman · Docker · PostgreSQL · Git · Make
+Python · SQL · Playwright · Postman · Docker · PostgreSQL · Git · Make
 
-**Ferramentas usadas nos projetos deste portfólio | Tools used in this portfolio's projects | Herramientas usadas en los proyectos:** Flask · pytest · GitHub Actions · SQLite · ffmpeg
-
-> Esta lista não é um nível de proficiência: separa o que uso no dia a dia do que aparece nos repositórios. · This is not a proficiency level: it separates what I use day to day from what appears in the repositories.
+**Nos projetos | In the projects | En los proyectos:** Flask · pytest · GitHub Actions · SQLite · ffmpeg
 
 ## 📌 Projetos | Projects | Proyectos
 
