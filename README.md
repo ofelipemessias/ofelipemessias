@@ -1,25 +1,29 @@
 # Olá, eu sou o Felipe! 👋 
 
 🎓 Estudante de Desenvolvimento de Sistemas (ETEC)
-💻 Automação de processos com Python, Flask, Docker e PostgreSQL
+💻 Automação de processos com Python, Docker e PostgreSQL
 🧪 Testes de API com Postman (API Testing Learning Path)
 🌱 Aprendendo Python, HTML e CSS
 
 ---
 
 🎓 Systems Development student (ETEC, Brazil)
-💻 Process automation with Python, Flask, Docker and PostgreSQL
+💻 Process automation with Python, Docker and PostgreSQL
 🧪 API testing with Postman (API Testing Learning Path)
 
 ---
 
 🎓 Estudiante de Desarrollo de Sistemas (ETEC, Brasil)
-💻 Automatización de procesos con Python, Flask, Docker y PostgreSQL
+💻 Automatización de procesos con Python, Docker y PostgreSQL
 🧪 Testing de APIs con Postman (API Testing Learning Path)
 
 ## 🛠️ Tecnologias | Technologies | Tecnologías
 
-Python · Flask · Docker · PostgreSQL · SQL · Git · GitHub Actions · Postman · Playwright · pytest · n8n · Make
+**Experiência declarada | Experience | Experiencia:** Python · SQL · Playwright · Postman · Docker · PostgreSQL · Git · Make
+
+**Ferramentas usadas nos projetos deste portfólio | Tools used in this portfolio's projects | Herramientas usadas en los proyectos:** Flask · pytest · GitHub Actions · SQLite · ffmpeg
+
+> Esta lista não é um nível de proficiência: separa o que uso no dia a dia do que aparece nos repositórios. · This is not a proficiency level: it separates what I use day to day from what appears in the repositories.
 
 ## 📌 Projetos | Projects | Proyectos
 
